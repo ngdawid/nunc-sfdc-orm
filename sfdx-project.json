@@ -1,0 +1,21 @@
+{
+    "packageDirectories": [
+        {
+            "path": "force-app",
+            "default": true,
+            "package": "sfdc-orm",
+            "versionName": "prod",
+            "versionNumber": "1.0.0"
+        },
+        {
+            "path": "force-app",
+            "package": "nunc_sfdc_orm",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
+        }
+    ],
+    "namespace": "",
+    "sfdcLoginUrl": "https://login.salesforce.com",
+    "sourceApiVersion": "48.0"
+}
