@@ -6,6 +6,10 @@
 .sfdx/
 .localdevserver/
 .eslintignore
+.forceignore
+.prettierrc
+.vscode/
+.prettierignore
 
 # LWC VSCode autocomplete
 **/lwc/jsconfig.json
